@@ -63,3 +63,28 @@ If you click on this page and view the source code you will see something that l
 
 ![Alt](images/module-02-unt-homepage-source.png "UNT Homepage Source View")
 
+### Exploring Web Archives
+
+This week we will be looking at the web archives of the Library of Congress. 
+
+Pay attention to how the archived web sites are organized. 
+
+What is the difference in this presentation of an archived website and collection of those sites?
+
+* Web Archiving - About this Program - https://www.loc.gov/programs/web-archiving/about-this-program/ 
+* Collections with Web Archives - https://www.loc.gov/web-archives/collections/ 
+* Web Archives - https://www.loc.gov/web-archives/collections/ (Links to an external site.) 
+
+### Discussion 
+
+#### Discussion Post:
+In at least one paragraph, discuss what you learned about the components that are used together to build the web as we know it.  What areas were you most or least familiar with before this weeks readings? Are there pieces that you would like to learn more about?
+
+In at least one paragraph, discuss collections you discovered at the Library of Congress? Were you surprised by what you found there? Are there things you think are missing based on your exploration of the web archive holdings? What would you like to know more about in relation to the Library of Congress Web Archives? Please include links to the specific sites you reference including links into the web archives themselves. One of the goals of this course is to become comfortable with linking into web archives and making them an active part of your online experience. 
+
+Note: It is easy to go astray in the Library of Congress Collections.  Make sure that what you are looking at are web archives, and not archival collections on the web.  
+
+#### Class Engagement: 
+After you have made the discussion post described above, take the time to response, comment, or engage with at least two of your classmates posts.  
+
+If there are any unanswered questions feel free to try and offer an answer or suggestion to the original poster.  Did they mention something that made you investigate something further? If so, what was it? 
