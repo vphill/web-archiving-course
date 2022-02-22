@@ -39,11 +39,9 @@ There are several short vides to watch as well as some readings that provide an 
 
 ### HTML Exercise
 
-#### Create some HTML
-
 Visit either https://texteditor.com/html/editor/  or https://htmlfiddle.net/  and experiment with what happens when you are using the What You See Is What You Get (WYSIWYG) text editor.  In one side of the page you can type text, add formatting and you will see what the HTML markup is doing on the other side of the screen. Make sure you try to make several paragraphs, add some links and an image to see what happens.  Finally experiment with different formats like bold, italics, lists and maybe a table.  The goal is to see the different tags that are being created in the html. 
 
-#### View the Source
+### View the Source
 The next exercise is to become familiar with ways of viewing the source of the HTML pages you are using all the time in your web browsers.  Most browsers will have a way of viewing the source HTML code that is used to render the pages you are looking at.  This will include the links, images, stylesheets, javascript, and other markup needed to add structure, design, and interactivity to the webpages you are viewing online.  
 
 Viewing the source is actually fairly easy on browsers, if you right click with you mouse on the page you are looking at, you will see an option that says something like "View Page Source".  When you click on this option your browser will open a new tab and will show you what HTML makes up the page you are on. 
@@ -75,16 +73,16 @@ What is the difference in this presentation of an archived website and collectio
 * Collections with Web Archives - https://www.loc.gov/web-archives/collections/ 
 * Web Archives - https://www.loc.gov/web-archives/collections/ (Links to an external site.) 
 
-### Discussion 
+## Discussion 
 
-#### Discussion Post:
+### Discussion Post:
 In at least one paragraph, discuss what you learned about the components that are used together to build the web as we know it.  What areas were you most or least familiar with before this weeks readings? Are there pieces that you would like to learn more about?
 
 In at least one paragraph, discuss collections you discovered at the Library of Congress? Were you surprised by what you found there? Are there things you think are missing based on your exploration of the web archive holdings? What would you like to know more about in relation to the Library of Congress Web Archives? Please include links to the specific sites you reference including links into the web archives themselves. One of the goals of this course is to become comfortable with linking into web archives and making them an active part of your online experience. 
 
 Note: It is easy to go astray in the Library of Congress Collections.  Make sure that what you are looking at are web archives, and not archival collections on the web.  
 
-#### Class Engagement: 
+### Class Engagement: 
 After you have made the discussion post described above, take the time to response, comment, or engage with at least two of your classmates posts.  
 
 If there are any unanswered questions feel free to try and offer an answer or suggestion to the original poster.  Did they mention something that made you investigate something further? If so, what was it? 
