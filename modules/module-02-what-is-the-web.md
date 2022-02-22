@@ -57,7 +57,7 @@ In looking at a few browsers on my Mac, here is what the options say that you sh
 #### Example of what you should see
 For a website like https://unt.edu you might see this in your browser. 
 
-image of unt website
+![Alt](images/module-02-unt-homepage.png "UNT Homepage")
 
 If you click on this page and view the source code you will see something that looks like this. 
 
