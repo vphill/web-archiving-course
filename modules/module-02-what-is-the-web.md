@@ -61,4 +61,5 @@ For a website like https://unt.edu you might see this in your browser.
 
 If you click on this page and view the source code you will see something that looks like this. 
 
+![Alt](images/module-02-unt-homepage-source.png "UNT Homepage Source View")
 
