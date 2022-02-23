@@ -126,12 +126,13 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Spring Break | 03/14 |                                                                            |                             |                 |
 |              |       |                                                                            |                             |                 |
 | Week 9       | 03/21 | Collection Policies                                                        | **Module Nine**             |                 |
+|              |       | [Assignment 3: Web Archive Collection Plan](./assignments/assignment-03.md)|                             |                 |
 |              | 03/27 |                                                                            | Discussion                  | 10 pts.         |
 | Week 10      | 03/28 | Metadata                                                                   | **Module Ten**              |                 |
 |              | 04/03 |                                                                            | Discussion                  |                 |
-|              | 04/03 |                                                                            | Web Archive Collection Plan | 50 pts.         |
 | Week 11      | 04/04 | Quality Assurance                                                          | **Module Eleven**           |                 |
 |              | 04/10 |                                                                            | Discussion                  | 10 pts.         |
+|              | 04/10 |                                                                            | Web Archive Collection Plan | 50 pts.         |
 | Week 12      | 04/11 | Research with Web Archives                                                 | **Module Twelve**           |                 |
 |              | 04/17 |                                                                            | Discussion                  | 10 pts.         |
 | Week 13      | 04/18 | Intellectual Property                                                      | **Module Twelve**           |                 |
