@@ -108,7 +108,7 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Week 2       | 01/24 | [What is the Web](./modules/module-02-what-is-the-web.md)                  | **Module Two**              |                 |
 |              | 01/30 |                                                                            | Discussion                  | 10 pts.         | 
 | Week 3       | 01/31 | [Who does Web Archiving?](./modules/module-03-who-does-web-archiving.md)   | **Module Three**            |                 |
-|              | 01/31 | Assignment 1: Web Archive Critique                                         |                             |                 | 
+|              | 01/31 | [Assignment 1: Web Archive Critique](./assignments/assignment-01.md)       |                             |                 |               
 |              | 02/06 |                                                                            | Discussion                  | 10 pts.         |
 | Week 4       | 02/07 | [Technology Overview](./modules/module-04-technology-overview.md)          | **Module Four**             |                 |
 |              | 02/13 |                                                                            | Discussion                  |                 |
@@ -116,7 +116,7 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Week 5       | 02/14 | [Capture](./modules/module-05-capture.md)                                  | **Module Five**             |                 |
 |              | 02/20 |                                                                            | Discussion                  | 10 pts.         |
 | Week 6       | 02/21 | [Preserve](./modules/module-06-preserve.md)                                | **Module Six**              |                 |
-|              | 02/21 | Assignment 2: Web Archive Tool Critique                                    |                             |                 |
+|              | 02/21 | [Assignment 2: Web Archive Tool Critique](./assignments/assignment-02.md)  |                             |                 |
 |              | 02/27 |                                                                            | Discussion                  | 10 pts.         |
 | Week 7       | 02/28 | Playback                                                                   | **Module Seven**            |                 |
 |              | 03/06 |                                                                            | Discussion                  | 10 pts.         |
