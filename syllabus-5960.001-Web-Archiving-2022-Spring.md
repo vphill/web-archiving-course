@@ -106,6 +106,14 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 |           | 02/23 |                        | Discussion      | 10 pts.         |      
 | Week 2    | 01/24 | What is the Web        | **Module Two**  |                 |
 |           | 01/30 |                        | Discussion      | 10 pts.         | 
+| Week 3    | 01/31 | Who does Web Archiving? | **Module Three** |              |
+|           | 02/06 |                        | Discussion      | 10 pts.         |
+| Week 4    | 02/07 | Technology Overview    | **Module Four** |                  |
+|           | 02/13 |                        | Discussion      |                  |
+|           | 02/13 |                        | Web Archiving Critique | 50 pts | 
+| Week 5    | 02/14 | Capture                | **Module Five**        |            |
+|           | 02/20 |                        | Discussion             | 10 pts      |
+| Week 6    | 02/21 | Preserve               | **Module Six**         |             |
 
 Every student in my class can improve by doing their own work and trying their hardest with access to appropriate resources.  Students who use other people’s work without citations will be violating UNT’s Academic Integrity Policy.  Please read and follow this important set of guidelines for your academic success (https://policy.unt.edu/policy/06-003).  If you have questions about this, or any UNT policy, please email me or come discuss this with me during my office hours.
 
