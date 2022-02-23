@@ -94,3 +94,34 @@ A grade of incomplete (I) will be given only for justifiable reasons (such as a 
 
 ### Withdrawal
 A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on your participation and grades to date.  If you simply disappear and do not file a formal UNT withdrawal form, you may receive a great of an F.
+
+## Course Requirements / Schedule
+
+### Schedule
+
+| Week      | Date  |           Topic        | Assignment Due  | Points Possible | 
+|-----------|-------|------------------------|-----------------|-----------------|
+| Week 1    | 01/18 | What is a Web Archive? | **Module One**  |                 | 
+|           | 02/23 |                        | Introduction    | 10 pts.         |      
+|           | 02/23 |                        | Discussion      | 10 pts.         |      
+| Week 2    | 01/24 | What is the Web        | **Module Two**  |                 |
+|           | 01/30 |                        | Discussion      | 10 pts.         | 
+
+Every student in my class can improve by doing their own work and trying their hardest with access to appropriate resources.  Students who use other people’s work without citations will be violating UNT’s Academic Integrity Policy.  Please read and follow this important set of guidelines for your academic success (https://policy.unt.edu/policy/06-003).  If you have questions about this, or any UNT policy, please email me or come discuss this with me during my office hours.
+
+## Attendance and Participation  
+
+Success in this course is dependent on your active participation and engagement throughout the course. As such, students are required to complete all assignments by the due date, and to actively participate in class discussions.
+
+Additionally, students are expected to:
+* Log on at least two times a week – ideally on different days in order to completely weekly assignments, assessments, discussions and/or other weekly deliverables as directed by the instructor and outlined in the syllabus;
+* Participate in the weekly threaded discussions,  this means that, in addition to posting a response to the thread topic presented, students are expected to respond to each other and comment and questions from the instructor and/or other students;
+
+If you find that you cannot meet the class' minimum discussion requirements due to such a circumstance, please contact me as soon as possible. 
+
+Students will not be marked present for the course in a particular week if they have not posted on the discussion forum and/or submit assignment/essay or complete assessment if administered in that week. 
+
+Please inform the professor and instructional team if you are unable to attend class meetings because you are ill, in mindfulness of the health and safety of everyone in our community. If you are experiencing any symptoms of COVID (https://www.cdc.gov/coronavirus/2019-ncov/symptoms testing/symptoms.html) please seek medical attention from the Student Health and Wellness Center (940-565-2333 or askSHWC@unt.edu) or your health care provider PRIOR to coming to campus. UNT also requires you to contact the UNT COVID Team at COVID@unt.edu for guidance on actions to take due to symptoms, pending or positive test results, or potential exposure.
+
+
+
