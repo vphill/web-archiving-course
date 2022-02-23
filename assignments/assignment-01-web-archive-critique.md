@@ -51,17 +51,20 @@ Design (10 points)
 * Does the document contain the correct information in the header and footer?
 * Does the document use appropriate margins, line spacing, and font size?
 * Is the document’s length appropriate based on the instructions?
+
 Content (30 points)
 * Does the document introduce the selected web archive?
 * Does the document identify the institutions involved with the creation of the web archive?
 * Does the document describe the scope of content in the web archive?
 * Does the document discuss the quality of the web captures contained in the web archive?
 * Does the document include critique or suggestions for improvement?
+
 Linking and Citations (5 points)
 * Does the document include links to the web archive?
 * Does the document include links to support observations or critique?
 * Does the document include links to examples of quality issues?
 * Does the document include properly formatted citations?
+
 Delivery (5 points)
 * Was the document submitted to the correct assignment module on Canvas?
 * Was the document submitted on time?
