@@ -53,7 +53,7 @@ Again we turn to the Internet Archive and their Wayback Machine.
 
 If you navigate over to this page https://web.archive.org/ , in the bottom right side of the page you will see the "Save Page Now"
 
-![Alt](images/module-05-save-page-now.png "Wayback Machine home with red arrow pointing to the "Save Page Now" tool.")
+![Alt](images/module-05-save-page-now.png 'Wayback Machine home with red arrow pointing to the "Save Page Now" tool.')
 
 
 This will link you to the "Save Page Now" interface - https://web.archive.org/save
