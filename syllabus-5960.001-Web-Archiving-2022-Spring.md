@@ -99,22 +99,47 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 
 ### Schedule
 
-| Week      | Date  |           Topic                                                            | Assignment Due         | Points Possible | 
-|-----------|-------|----------------------------------------------------------------------------|------------------------|-----------------|
-|           | 01/18 | [Introduction to Class](./modules/module-00-introductions.md)              |                        |                 |
-| Week 1    | 01/18 | [What is a Web Archive?](./modules/module-01-what-is-a-web-archive.md)     | **Module One**         |                 | 
-|           | 02/23 |                                                                            | Introduction           | 10 pts.         |      
-|           | 02/23 |                                                                            | Discussion             | 10 pts.         |      
-| Week 2    | 01/24 | [What is the Web](./modules/module-02-what-is-the-web.md)                  | **Module Two**         |                 |
-|           | 01/30 |                                                                            | Discussion             | 10 pts.         | 
-| Week 3    | 01/31 | [Who does Web Archiving?](./modules/module-03-who-does-web-archiving.md)   | **Module Three**       |                 |
-|           | 02/06 |                                                                            | Discussion             | 10 pts.         |
-| Week 4    | 02/07 | [Technology Overview](./modules/module-04-technology-overview.md)          | **Module Four**        |                 |
-|           | 02/13 |                                                                            | Discussion             |                 |
-|           | 02/13 |                                                                            | Web Archiving Critique | 50 pts          | 
-| Week 5    | 02/14 | [Capture](./modules/module-05-capture.md)                                  | **Module Five**        |                 |
-|           | 02/20 |                                                                            | Discussion             | 10 pts          |
-| Week 6    | 02/21 | [Preserve](./modules/module-06-preserve.md)                                | **Module Six**         |                 |
+| Week         | Date  |           Topic                                                            | Assignment Due              | Points Possible | 
+|--------------|-------|----------------------------------------------------------------------------|-----------------------------|-----------------|
+|              | 01/18 | [Introduction to Class](./modules/module-00-introductions.md)              |                             |                 |
+| Week 1       | 01/18 | [What is a Web Archive?](./modules/module-01-what-is-a-web-archive.md)     | **Module One**              |                 | 
+|              | 02/23 |                                                                            | Introduction                | 10 pts.         |      
+|              | 02/23 |                                                                            | Discussion                  | 10 pts.         |      
+| Week 2       | 01/24 | [What is the Web](./modules/module-02-what-is-the-web.md)                  | **Module Two**              |                 |
+|              | 01/30 |                                                                            | Discussion                  | 10 pts.         | 
+| Week 3       | 01/31 | [Who does Web Archiving?](./modules/module-03-who-does-web-archiving.md)   | **Module Three**            |                 |
+|              | 02/06 |                                                                            | Discussion                  | 10 pts.         |
+| Week 4       | 02/07 | [Technology Overview](./modules/module-04-technology-overview.md)          | **Module Four**             |                 |
+|              | 02/13 |                                                                            | Discussion                  |                 |
+|              | 02/13 |                                                                            | Web Archive Critique        | 50 pts.         | 
+| Week 5       | 02/14 | [Capture](./modules/module-05-capture.md)                                  | **Module Five**             |                 |
+|              | 02/20 |                                                                            | Discussion                  | 10 pts.         |
+| Week 6       | 02/21 | [Preserve](./modules/module-06-preserve.md)                                | **Module Six**              |                 |
+|              | 02/27 |                                                                            | Discussion                  | 10 pts.         |
+| Week 7       | 02/28 | Playback                                                                   | **Module Seven**            |                 |
+|              | 03/06 |                                                                            | Discussion                  | 10 pts.         |
+| Week 8       | 03/07 | Other Tools                                                                | **Module Eight**            |                 |
+|              | 03/13 |                                                                            | Discussion                  | 10 pts.         |
+|              | 03/13 |                                                                            | Web Archive Tools Critique  | 50 pts.         |
+| Spring Break | 03/14 |                                                                            |                             |                 |
+|              |       |                                                                            |                             |                 |
+| Week 9       | 03/21 | Collection Policies                                                        | **Module Nine**             |                 |
+|              | 03/27 |                                                                            | Discussion                  | 10 pts.         |
+| Week 10      | 03/28 | Metadata                                                                   | **Module Ten**              |                 |
+|              | 04/03 |                                                                            | Discussion                  |                 |
+|              | 04/03 |                                                                            | Web Archive Collection Plan | 50 pts.         |
+| Week 11      | 04/04 | Quality Assurance                                                          | **Module Eleven**           |                 |
+|              | 04/10 |                                                                            | Discussion                  | 10 pts.         |
+| Week 12      | 04/11 | Research with Web Archives                                                 | **Module Twelve**           |                 |
+|              | 04/17 |                                                                            | Discussion                  | 10 pts.         |
+| Week 13      | 04/18 | Intellectual Property                                                      | **Module Twelve**           |                 |
+|              | 04/24 |                                                                            | Discussion                  | 10 pts.         |
+| Week 14      | 04/25 | Future of Web Archives                                                     | **Module Thirteen**         |                 |
+|              | 05/01 |                                                                            | Discussion                  | 10 pts.         |
+| Week 15      | 05/05 |                                                                            | Final Project Due           | 100 pts.        |
+|              |       |                                                                            |                             |                 |
+| Week 16      | 05/09 | Finals Week                                                                | No Assignments              |                 |
+
 
 Every student in my class can improve by doing their own work and trying their hardest with access to appropriate resources.  Students who use other people’s work without citations will be violating UNT’s Academic Integrity Policy.  Please read and follow this important set of guidelines for your academic success (https://policy.unt.edu/policy/06-003).  If you have questions about this, or any UNT policy, please email me or come discuss this with me during my office hours.
 
