@@ -7,10 +7,10 @@
 
 ## Instructor Information
 
-Instructor: Mark Phillips Ph.D. (he/him)
-Office Hours: Tues 2:00-4:00PM or by appointment
-Office Location: Online using Zoom
-Email: mark.phillips@unt.edu
+Instructor: Mark Phillips Ph.D. (he/him)  
+Office Hours: Tues 2:00-4:00PM or by appointment  
+Office Location: Online using Zoom  
+Email: mark.phillips@unt.edu  
 
 ## Course Description
 The web is a fundamental component of nearly all modern interaction. Preserving content from the web and providing long-term access to preserved content presents an interesting set of challenges for Information Scientists. In this course, you will develop knowledge and skills related to the standards, tools, and processes of web archiving. You will learn the mechanics of web archiving and its relation to familiar concepts like collection building and appraisal, access and use, and ethics. This course will provide hands-on experience working with different projects and tools, and is designed for anyone interested in the topic without any need for prior experience in web archiving.
