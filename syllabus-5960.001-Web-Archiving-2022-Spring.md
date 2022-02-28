@@ -118,7 +118,7 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Week 6       | 02/21 | [Preserve](./modules/module-06-preserve.md)                                | **Module Six**              |                 |
 |              | 02/21 | [Assignment 2: Web Archive Tool Critique](./assignments/assignment-02.md)  |                             |                 |
 |              | 02/27 |                                                                            | Discussion                  | 10 pts.         |
-| Week 7       | 02/28 | Playback                                                                   | **Module Seven**            |                 |
+| Week 7       | 02/28 | [Playback](./modules/module-07-playback.md)                                | **Module Seven**            |                 |
 |              | 03/06 |                                                                            | Discussion                  | 10 pts.         |
 | Week 8       | 03/07 | Other Tools                                                                | **Module Eight**            |                 |
 |              | 03/13 |                                                                            | Discussion                  | 10 pts.         |
