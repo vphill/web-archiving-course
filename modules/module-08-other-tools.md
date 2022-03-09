@@ -22,55 +22,55 @@ There are several readings, some online documentation to skim, and several power
 The readings in this module are chosen to give you some exposure to different tools and systems that are being used around the world for different aspects of the web archive lifecycle. 
 
 * International Internet Preservation Consortium (2020). Session 3D: Main Concepts and Technologies: Other Tools 
-  *  Slides - https://netpreserve.org/download/iipc-training-session-beginners-3d-slides/ (Links to an external site.) 
-  *  Speaker Notes - https://netpreserve.org/download/iipc-training-session-beginners-3d-notes/ (Links to an external site.) 
+  *  Slides - https://netpreserve.org/download/iipc-training-session-beginners-3d-slides/  
+  *  Speaker Notes - https://netpreserve.org/download/iipc-training-session-beginners-3d-notes/  
   *  Review these slides and speaker notes.  I suggest reading the notes when you have the slides open in another part of the screen. 
 
 ### Memento
 
-* Jones S.M., Klein M., Sompel H.V.., Nelson M.L., Weigle M.C. (2021) Interoperability for Accessing Versions of Web Resources with the Memento Protocol. In: Gomes D., Demidova E., Winters J., Risse T. (eds) The Past Web. Springer, Cham. https://doi.org/10.1007/978-3-030-63291-5_9 (Links to an external site.) 
-  * Direct Link to UNT Libraries Access - https://link-springer-com.libproxy.library.unt.edu/chapter/10.1007/978-3-030-63291-5_9  (Links to an external site.)
-* Web Archiving Fundamentals pt 2: Memento https://video.vt.edu/media/Web+Archiving+Fundamentals+pt+2A+Memento/1_5gvqowto (Links to an external site.) 
+* Jones S.M., Klein M., Sompel H.V.., Nelson M.L., Weigle M.C. (2021) Interoperability for Accessing Versions of Web Resources with the Memento Protocol. In: Gomes D., Demidova E., Winters J., Risse T. (eds) The Past Web. Springer, Cham. https://doi.org/10.1007/978-3-030-63291-5_9  
+  * Direct Link to UNT Libraries Access - https://link-springer-com.libproxy.library.unt.edu/chapter/10.1007/978-3-030-63291-5_9  
+* Web Archiving Fundamentals pt 2: Memento https://video.vt.edu/media/Web+Archiving+Fundamentals+pt+2A+Memento/1_5gvqowto  
   * This is probably the best overview of what Memento actually is and how it can be used to improve access to web archives.  
-* Memento Guide - Introduction to Memento - http://www.mementoweb.org/guide/quick-intro/ (Links to an external site.) 
-* About the Memento Project - http://mementoweb.org/about/ (Links to an external site.) 
-* Memento Project - https://en.wikipedia.org/wiki/Memento_Project (Links to an external site.) 
-* Memento, About the Time Travel Service - http://timetravel.mementoweb.org/about/ (Links to an external site.) 
-* Memento at the W3C - https://www.w3.org/blog/2016/08/memento-at-the-w3c/ (Links to an external site.) 
+* Memento Guide - Introduction to Memento - http://www.mementoweb.org/guide/quick-intro/  
+* About the Memento Project - http://mementoweb.org/about/  
+* Memento Project - https://en.wikipedia.org/wiki/Memento_Project  
+* Memento, About the Time Travel Service - http://timetravel.mementoweb.org/about/  
+* Memento at the W3C - https://www.w3.org/blog/2016/08/memento-at-the-w3c/  
 * Coalition for Networked Information (2010). CNI: Memento: Time Travel for the Web -
-https://www.youtube.com/watch?v=ePBMn-_I1rU (Links to an external site.)
+https://www.youtube.com/watch?v=ePBMn-_I1rU 
    * I don't expect you to watch this whole video, but it is a very good, and deep dive into Memento.
 
 ### Webrecorder/Conifer
 
 Webrecorder (service is now called Conifer)
 
-* Conifer. (2019). Introduction to Webrecorder.io - getting started https://www.youtube.com/watch?v=yX2RrfNPQjg (Links to an external site.)
-* Rhizome. (2020). Webrecorder.io is now Conifer.rhizome.org. https://blog.conifer.rhizome.org/2020/06/11/webrecorder-conifer.html (Links to an external site.) 
-* Frequently Asked Questions - https://conifer.rhizome.org/_faq (Links to an external site.) 
-* Conifer Guide - https://guide.conifer.rhizome.org/ (Links to an external site.) 
+* Conifer. (2019). Introduction to Webrecorder.io - getting started https://www.youtube.com/watch?v=yX2RrfNPQjg 
+* Rhizome. (2020). Webrecorder.io is now Conifer.rhizome.org. https://blog.conifer.rhizome.org/2020/06/11/webrecorder-conifer.html  
+* Frequently Asked Questions - https://conifer.rhizome.org/_faq  
+* Conifer Guide - https://guide.conifer.rhizome.org/  
 
 ### Archives Unleashed
 
-* Ruest, N., Lin, J., Milligan, I., & Fritz, S. (2020). The Archives Unleashed Project: Technology, Process, and Community to Improve Scholarly Access to Web Archives. Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020. Association for Computing Machinery, New York, NY, USA, 157–166. https://doi.org/10.1145/3383583.3398513 (Links to an external site.) 
-  * UNT Libraries Access Link - https://dl-acm-org.libproxy.library.unt.edu/doi/pdf/10.1145/3383583.3398513 (Links to an external site.)
-* Archives Unleashed Overview - https://www.youtube.com/watch?v=nBwgM63MxY8 (Links to an external site.)
-* Project Website - https://archivesunleashed.org/ (Links to an external site.) 
+* Ruest, N., Lin, J., Milligan, I., & Fritz, S. (2020). The Archives Unleashed Project: Technology, Process, and Community to Improve Scholarly Access to Web Archives. Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020. Association for Computing Machinery, New York, NY, USA, 157–166. https://doi.org/10.1145/3383583.3398513  
+  * UNT Libraries Access Link - https://dl-acm-org.libproxy.library.unt.edu/doi/pdf/10.1145/3383583.3398513 
+* Archives Unleashed Overview - https://www.youtube.com/watch?v=nBwgM63MxY8 
+* Project Website - https://archivesunleashed.org/  
 * The Archives Unleashed Toolkit - https://archivesunleashed.org/aut/
 
 ### Seed Nomination Services
-* URL Nomination Tool - https://digital2.library.unt.edu/nomination/ (Links to an external site.)
-* URL Nomination Tool Code (django-nomination) - https://github.com/unt-libraries/django-nomination (Links to an external site.)
-* URL Nomination Tool Presentation - https://digital.library.unt.edu/ark:/67531/metadc287023/m2/ (Links to an external site.)
-* Cobweb Service - https://cdlib.org/services/pad/webarchiving/cobweb/ (Links to an external site.) 
-* Cobweb Code - https://github.com/CobwebOrg/cobweb (Links to an external site.) 
+* URL Nomination Tool - https://digital2.library.unt.edu/nomination/ 
+* URL Nomination Tool Code (django-nomination) - https://github.com/unt-libraries/django-nomination 
+* URL Nomination Tool Presentation - https://digital.library.unt.edu/ark:/67531/metadc287023/m2/ 
+* Cobweb Service - https://cdlib.org/services/pad/webarchiving/cobweb/  
+* Cobweb Code - https://github.com/CobwebOrg/cobweb  
 
 ### Other Crawling Services / Software Suites
-* Web Curator Tool - https://webcuratortool.org/ (Links to an external site.)
-* Web Curator Tool Code - https://github.com/DIA-NZ/webcurator/wiki (Links to an external site.)
-* Web Curator Tool Documentation - http://webcurator.sourceforge.net/ (Links to an external site.)
-* Netarchive Suite - https://sbforge.org/display/NAS/NetarchiveSuite (Links to an external site.) 
-* Netarchive Suite Github - https://github.com/netarchivesuite (Links to an external site.) 
+* Web Curator Tool - https://webcuratortool.org/ 
+* Web Curator Tool Code - https://github.com/DIA-NZ/webcurator/wiki 
+* Web Curator Tool Documentation - http://webcurator.sourceforge.net/ 
+* Netarchive Suite - https://sbforge.org/display/NAS/NetarchiveSuite  
+* Netarchive Suite Github - https://github.com/netarchivesuite  
 
 
 ## Archiving Exercise
@@ -80,11 +80,11 @@ This week we will look at the concept of archivability as it pertains to Web Arc
 
 First, take a look at this paper by Banos, Kim, Ross and Manolopoulos. 
 
-Banos V., Kim Y., Ross S., Manolopoulos Y.: CLEAR: a credible method to evaluate website archivability, iPRES 2013, http://purl.pt/24107/1/iPres2013_PDF/CLEAR%20a%20credible%20method%20to%20evaluate%20website%20archivability.pdf (Links to an external site.) 
+Banos V., Kim Y., Ross S., Manolopoulos Y.: CLEAR: a credible method to evaluate website archivability, iPRES 2013, http://purl.pt/24107/1/iPres2013_PDF/CLEAR%20a%20credible%20method%20to%20evaluate%20website%20archivability.pdf  
 
 You don't need to read the article in depth, but it is helpful to get the context of the work. 
 
-Next, navigate to http://archiveready.com (Links to an external site.) (sadly it is not an https service). 
+Next, navigate to http://archiveready.com  (sadly it is not an https service). 
 
 ![Alt](images/module-08-archiveready-01.png "Homepage for the ArchiveReady service.")
 
@@ -94,7 +94,7 @@ After you have looked around, choose the homepage of an organization or other we
 
 Enter the websites URL into the provided box and choose "Check now". 
 
-For this example I chose to look at the Electric Reliability Council of Texas (ERCOT) website (https://ercot.com (Links to an external site.)). 
+For this example I chose to look at the Electric Reliability Council of Texas (ERCOT) website (https://ercot.com ). 
 
 ![Alt](images/module-08-archiveready-02.png "ArchiveReady results page for http://ercot.com")
 
@@ -103,26 +103,26 @@ Look at the different results tabs to get an idea of the different metrics and a
 In this week's discussion you will share the website you chose for this exercise. Additionally, you will share the Overall ratings as well as a synthesis of the findings from the service. Any additional observations you find interesting about this service would be good to share as well.  Finally, explain how you think this kind of service could be helpful in the web archiving lifecycle. 
 
 ### Additional Readings about Archivability
-* Web Archivability Community Group - https://www.w3.org/community/webarchivability/ (Links to an external site.)
-* Archivability - https://library.stanford.edu/projects/web-archiving/archivability (Links to an external site.) 
-* Banos V., Manolopoulos Y.: A quantitative approach to evaluate Website Archivability using the CLEAR+ method, International Journal on Digital Libraries, 2015, https://doi.org/10.1007/s00799-015-0144-4 (Links to an external site.) 
-  * UNT Direct Link - https://www-proquest-com.libproxy.library.unt.edu/docview/1785958458?pq-origsite=summon (Links to an external site.) 
+* Web Archivability Community Group - https://www.w3.org/community/webarchivability/ 
+* Archivability - https://library.stanford.edu/projects/web-archiving/archivability  
+* Banos V., Manolopoulos Y.: A quantitative approach to evaluate Website Archivability using the CLEAR+ method, International Journal on Digital Libraries, 2015, https://doi.org/10.1007/s00799-015-0144-4  
+  * UNT Direct Link - https://www-proquest-com.libproxy.library.unt.edu/docview/1785958458?pq-origsite=summon  
 
 ## Exploring Web Archives
 
 Each week we will try and learn about a new web archive, a web archiving tool, or a web archiving service.  The goal of this is to get an introduction to what is happening in the web archiving space, what is being collected, and who is collecting it. 
 
-This week we will look at the Portugal National Web Archive (https://arquivo.pt/?l=en (Links to an external site.))
+This week we will look at the Portugal National Web Archive (https://arquivo.pt/?l=en )
 
 ![Alt](images/module-08-arquivo.png "Homepage for Arquivo.pt")
 
-What is Arquivo.pt - https://sobre.arquivo.pt/en/help/what-is-arquivo-pt/ (Links to an external site.) 
+What is Arquivo.pt - https://sobre.arquivo.pt/en/help/what-is-arquivo-pt/  
 
-Examples of preserved pages - https://sobre.arquivo.pt/en/examples/examples/ (Links to an external site.)
+Examples of preserved pages - https://sobre.arquivo.pt/en/examples/examples/ 
 
-Exhibitions - https://sobre.arquivo.pt/en/examples/collections/ (Links to an external site.)
+Exhibitions - https://sobre.arquivo.pt/en/examples/collections/ 
 
-Youtube Channel for Arquivo.pt - https://www.youtube.com/channel/UCEMJX0ICk1t2TzuNXghxKDg (Links to an external site.) 
+Youtube Channel for Arquivo.pt - https://www.youtube.com/channel/UCEMJX0ICk1t2TzuNXghxKDg  
 
 Some things that I would like for you to notice is the different ways of presenting web archives.  The style of the wayback interface that they are presenting is different than others we have seen so far in this course. A description of the differences would be useful in your discussion post. The service also presents some examples and exhibits to help users get into the web archives a little better.  How well does this work in your opinion? What did you end up exploring in the archive? How well does arquivo.pt present content in Portuguese and English.  Have you seen other interfaces in multiple languages in our web archive exploration so far?
 
