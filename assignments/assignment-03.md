@@ -78,7 +78,7 @@ Section 4. Descriptive Metadata Requirements
     2. Desirable
 3. Controlled vocabularies
 
-References
+**References**  
 Any references cited within the document. Use APA standards for citations. Use an online source (Purdue OWL) for specifics about APA.
 
 ## Layout Specifics: 
