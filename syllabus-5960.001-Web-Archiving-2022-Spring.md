@@ -125,7 +125,7 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 |              | 03/13 |                                                                            | Web Archive Tools Critique  | 50 pts.         |
 | Spring Break | 03/14 |                                                                            |                             |                 |
 |              |       |                                                                            |                             |                 |
-| Week 9       | 03/21 | Collection Policies                                                        | **Module Nine**             |                 |
+| Week 9       | 03/21 | [Collection Policies](./modules/module-09-collection-policies.md)          | **Module Nine**             |                 |
 |              |       | [Assignment 3: Web Archive Collection Plan](./assignments/assignment-03.md)|                             |                 |
 |              | 03/27 |                                                                            | Discussion                  | 10 pts.         |
 | Week 10      | 03/28 | Metadata                                                                   | **Module Ten**              |                 |
