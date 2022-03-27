@@ -28,53 +28,55 @@ The following layout as described by the Collection Planning Guidelines in its A
 
 Section 1. Mission & Scope
 
-A. Mission Statement
-B. User Group(s)
-C. Collection Subject, Theme, or Event
-D. Curator(s)
+1. Mission Statement 
+2. User Group(s)
+3. Collection Subject, Theme, or Event
+4. Curator(s)
 
 Section 2. Selection Activities
 
 1. Seed List
 (Include 5-10 seed URLs for your web archive collection and include a description of why they are included in this collection. These will be used in the final project). 
-  1. URL(s) 
-  2. Brief Description(s)
+    1. URL(s) 
+    2. Brief Description(s)
 2. Initial Boundary Specification
-  1. Depth of linked web pages within the seed URL host
-  2. Inclusion or exclusion of linked web pages from external hosts for each seed URL host
-    * Depth of linked web pages from external hosts (if included)
-Rights Metadata
-Rights designation
-Rights metadata
-Linked and sourced objects
+    1. Depth of linked web pages within the seed URL host
+    2. Inclusion or exclusion of linked web pages from external hosts for each seed URL host
+       * Depth of linked web pages from external hosts (if included)
+3. Rights Metadata
+    1. Rights designation
+    2. Rights metadata
+    3. Linked and sourced objects
 
 Section 3. Web Site Acquisition
-Frequency of Capture
-Date
-Interval
-Capture Boundaries
-Depth of linked web pages within the seed URL host
-Inclusion or exclusion of linked web pages from external hosts for each seed URL host
-Depth of linked web pages from external hosts (if included)
-Material Types & Formats
-Excluded types
-Excluded formats
-Interactive & Dynamic Content
-Authentication (username/password)
-Email links
-Forms
-Database-generated pages (based on user queries)
-Dynamically or programmatically generated web pages
+
+1. Frequency of Capture
+    1. Date
+    2. Interval
+2. Capture Boundaries
+    1. Depth of linked web pages within the seed URL host
+    2. Inclusion or exclusion of linked web pages from external hosts for each seed URL host
+        * Depth of linked web pages from external hosts (if included)
+3. Material Types & Formats
+    1. Excluded types
+    2. Excluded formats
+4. Interactive & Dynamic Content
+    1. Authentication (username/password)
+    2. Email links
+    3. Forms
+    4. Database-generated pages (based on user queries)
+    5. Dynamically or programmatically generated web pages
 
 Section 4. Descriptive Metadata Requirements
-Level of Description
-Collection Level
-Web Site Level
-Information object level
-Metadata elements
-Essential
-Desirable
-Controlled vocabularies
+
+1. Level of Description
+    1. Collection Level
+    2. Web Site Level
+    3. Information object level
+2. Metadata elements
+    1. Essential
+    2. Desirable
+3. Controlled vocabularies
 
 References
 Any references cited within the document. Use APA standards for citations. Use an online source (Purdue OWL) for specifics about APA.
