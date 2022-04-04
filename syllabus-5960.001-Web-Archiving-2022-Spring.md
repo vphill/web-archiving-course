@@ -128,9 +128,9 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Week 9       | 03/21 | [Collection Policies](./modules/module-09-collection-policies.md)          | **Module Nine**             |                 |
 |              |       | [Assignment 3: Web Archive Collection Plan](./assignments/assignment-03.md)|                             |                 |
 |              | 03/27 |                                                                            | Discussion                  | 10 pts.         |
-| Week 10      | 03/28 |[ Metadata](./modules/module-10-metadata.md)                                | **Module Ten**              |                 |
+| Week 10      | 03/28 | [Metadata](./modules/module-10-metadata.md)                                | **Module Ten**              |                 |
 |              | 04/03 |                                                                            | Discussion                  |                 |
-| Week 11      | 04/04 | Quality Assurance                                                          | **Module Eleven**           |                 |
+| Week 11      | 04/04 | [Quality Assurance](./modules/module-11-quality-assurance.md)               | **Module Eleven**           |                 |
 |              | 04/04 | [Final Project: Create a Web Archive](./assignments/assignment-04.md)      |                             |                 |
 |              | 04/10 |                                                                            | Discussion                  | 10 pts.         |
 |              | 04/10 |                                                                            | Web Archive Collection Plan | 50 pts.         |
