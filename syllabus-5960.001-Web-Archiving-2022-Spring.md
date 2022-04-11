@@ -161,5 +161,5 @@ Students will not be marked present for the course in a particular week if they 
 
 Please inform the professor and instructional team if you are unable to attend class meetings because you are ill, in mindfulness of the health and safety of everyone in our community. If you are experiencing any symptoms of COVID (https://www.cdc.gov/coronavirus/2019-ncov/symptoms testing/symptoms.html) please seek medical attention from the Student Health and Wellness Center (940-565-2333 or askSHWC@unt.edu) or your health care provider PRIOR to coming to campus. UNT also requires you to contact the UNT COVID Team at COVID@unt.edu for guidance on actions to take due to symptoms, pending or positive test results, or potential exposure.
 
-[module_12]: module-12-research.md
+[module_12]: ./modules/module-12-research.md
 
