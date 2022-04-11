@@ -131,10 +131,10 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Week 10      | 03/28 | [Metadata][module_10]                                                      | **Module Ten**              |                 |
 |              | 04/03 |                                                                            | Discussion                  |                 |
 | Week 11      | 04/04 | [Quality Assurance][module_11]                                             | **Module Eleven**           |                 |
-|              | 04/04 | [Final Project: Create a Web Archive][assignment_04]                       |                             |                 |
 |              | 04/10 |                                                                            | Discussion                  | 10 pts.         |
 |              | 04/10 |                                                                            | Web Archive Collection Plan | 50 pts.         |
 | Week 12      | 04/11 | [Research with Web Archives][module_12]                                    | **Module Twelve**           |                 |
+|              | 04/11 | [Final Project: Create a Web Archive][assignment_04]                       |                             |                 |
 |              | 04/17 |                                                                            | Discussion                  | 10 pts.         |
 | Week 13      | 04/18 | Intellectual Property                                                      | **Module Twelve**           |                 |
 |              | 04/24 |                                                                            | Discussion                  | 10 pts.         |
@@ -165,7 +165,7 @@ Please inform the professor and instructional team if you are unable to attend c
 [module_01]: ./modules/module-01-what-is-a-web-archive.md
 [module_02]: ./modules/module-02-what-is-the-web.md
 [module_03]: ./modules/module-03-who-does-web-archiving.md
-[module_04]: ./modulesmodule-04-technology-overview.md
+[module_04]: ./modules/module-04-technology-overview.md
 [module_05]: ./modules/module-05-capture.md
 [module_06]: ./modules/module-06-preserve.md
 [module_07]: ./modules/module-07-playback.md
