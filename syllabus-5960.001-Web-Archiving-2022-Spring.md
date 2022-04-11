@@ -108,7 +108,7 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Week 2       | 01/24 | [What is the Web](./modules/module-02-what-is-the-web.md)                  | **Module Two**              |                 |
 |              | 01/30 |                                                                            | Discussion                  | 10 pts.         | 
 | Week 3       | 01/31 | [Who does Web Archiving?](./modules/module-03-who-does-web-archiving.md)   | **Module Three**            |                 |
-|              | 01/31 | [Assignment 1: Web Archive Critique](./assignments/assignment-01.md)       |                             |                 |               
+|              | 01/31 | [Assignment 1: Web Archive Critique][assignment_01]                        |                             |                 |   
 |              | 02/06 |                                                                            | Discussion                  | 10 pts.         |
 | Week 4       | 02/07 | [Technology Overview](./modules/module-04-technology-overview.md)          | **Module Four**             |                 |
 |              | 02/13 |                                                                            | Discussion                  |                 |
@@ -116,7 +116,7 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Week 5       | 02/14 | [Capture](./modules/module-05-capture.md)                                  | **Module Five**             |                 |
 |              | 02/20 |                                                                            | Discussion                  | 10 pts.         |
 | Week 6       | 02/21 | [Preserve](./modules/module-06-preserve.md)                                | **Module Six**              |                 |
-|              | 02/21 | [Assignment 2: Web Archive Tool Critique](./assignments/assignment-02.md)  |                             |                 |
+|              | 02/21 | [Assignment 2: Web Archive Tool Critique][assignment_02]                   |                             |                 |
 |              | 02/27 |                                                                            | Discussion                  | 10 pts.         |
 | Week 7       | 02/28 | [Playback](./modules/module-07-playback.md)                                | **Module Seven**            |                 |
 |              | 03/06 |                                                                            | Discussion                  | 10 pts.         |
@@ -126,12 +126,12 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 | Spring Break | 03/14 |                                                                            |                             |                 |
 |              |       |                                                                            |                             |                 |
 | Week 9       | 03/21 | [Collection Policies](./modules/module-09-collection-policies.md)          | **Module Nine**             |                 |
-|              |       | [Assignment 3: Web Archive Collection Plan](./assignments/assignment-03.md)|                             |                 |
+|              |       | [Assignment 3: Web Archive Collection Plan][assignment_03]                 |                             |                 |
 |              | 03/27 |                                                                            | Discussion                  | 10 pts.         |
 | Week 10      | 03/28 | [Metadata](./modules/module-10-metadata.md)                                | **Module Ten**              |                 |
 |              | 04/03 |                                                                            | Discussion                  |                 |
-| Week 11      | 04/04 | [Quality Assurance](./modules/module-11-quality-assurance.md)               | **Module Eleven**           |                 |
-|              | 04/04 | [Final Project: Create a Web Archive](./assignments/assignment-04.md)      |                             |                 |
+| Week 11      | 04/04 | [Quality Assurance](./modules/module-11-quality-assurance.md)              | **Module Eleven**           |                 |
+|              | 04/04 | [Final Project: Create a Web Archive][assignment_04]                       |                             |                 |
 |              | 04/10 |                                                                            | Discussion                  | 10 pts.         |
 |              | 04/10 |                                                                            | Web Archive Collection Plan | 50 pts.         |
 | Week 12      | 04/11 | [Research with Web Archives][module_12]                                    | **Module Twelve**           |                 |
@@ -162,4 +162,9 @@ Students will not be marked present for the course in a particular week if they 
 Please inform the professor and instructional team if you are unable to attend class meetings because you are ill, in mindfulness of the health and safety of everyone in our community. If you are experiencing any symptoms of COVID (https://www.cdc.gov/coronavirus/2019-ncov/symptoms testing/symptoms.html) please seek medical attention from the Student Health and Wellness Center (940-565-2333 or askSHWC@unt.edu) or your health care provider PRIOR to coming to campus. UNT also requires you to contact the UNT COVID Team at COVID@unt.edu for guidance on actions to take due to symptoms, pending or positive test results, or potential exposure.
 
 [module_12]: ./modules/module-12-research.md
+
+[assignment_01]: ./assignments/assignment-01.md
+[assignment_02]: ./assignments/assignment-02.md) 
+[assignment_03]: ./assignments/assignment-03.md) 
+[assignment_04]: ./assignments/assignment-04.md) 
 
