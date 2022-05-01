@@ -138,7 +138,7 @@ A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on 
 |              | 04/17 |                                                                            | Discussion                  | 10 pts.         |
 | Week 13      | 04/18 | [Intellectual Property][module_13]                                         | **Module Thirteen**         |                 |
 |              | 04/24 |                                                                            | Discussion                  | 10 pts.         |
-| Week 14      | 04/25 | Future of Web Archives                                                     | **Module Fourteen**         |                 |
+| Week 14      | 04/25 | Future of Web Archives[module_14]                                          | **Module Fourteen**         |                 |
 |              | 05/01 |                                                                            | Discussion                  | 10 pts.         |
 | Week 15      | 05/05 |                                                                            | Final Project Due           | 100 pts.        |
 |              |       |                                                                            |                             |                 |
@@ -175,6 +175,7 @@ Please inform the professor and instructional team if you are unable to attend c
 [module_11]: ./modules/module-11-quality-assurance.md
 [module_12]: ./modules/module-12-research.md
 [module_13]: ./modules/module-13-intellectual-property-ethics.md
+[module_14]: ./modules/module-14-future-of-web-archive.md
 
 [assignment_01]: ./assignments/assignment-01.md
 [assignment_02]: ./assignments/assignment-02.md 
