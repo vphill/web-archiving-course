@@ -1,6 +1,6 @@
 # Web Archiving Course
 
-Author:
+Primary Author:
 * Mark Phillips, Ph.D.  
 * mark.phillips@unt.edu  
 * https://twitter.com/vphill
@@ -37,6 +37,10 @@ If you notice typos, have readings that you would like to suggest, or have ideas
 ## Acknowledgements
 
 The readings and activities in this course were in part informed by instructors of similar courses around the country. I would like to highlight the work of Samantha Abrams (WISC) , Lori Donovan (UMICH), and Ayoung Yoon (UNC).
+
+## Contributors
+
+Kristy Phillips - https://github.com/k-phillips
 
 ## License
 
