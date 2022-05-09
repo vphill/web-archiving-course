@@ -11,15 +11,15 @@ This course is divided into [modules](./modules/) that are designed to build seq
 
 There are fourteen modules in total starting the first week of class and ending the last week of the semester. 
 
-Each week there is an **_Overview and Objectives_** which gives you an idea of what is going to be happening in this week's module. 
+Each week there is an **_Overview and Objectives_** section which gives students an idea of what is going to be happening in that week's module. 
 
-The **_Readings_** page will list the required and optional readings for that week.  In addition to traditional readings, there are videos and sometimes audio recordings for you to listen to. 
+The **_Readings_** page will list the required and optional readings for that week.  In addition to traditional readings, there are videos and sometimes audio recordings for students to listen to. 
 
-A feature of each module called _**Exploring Web Archives**_ is included to give you a bit of a guided introduction to the wide range of web archives and collections that exist around the world. These explorations are generally a part of the weekly discussion. 
+A feature of each module called _**Exploring Web Archives**_ is included to give students a bit of a guided introduction to the wide range of web archives and collections that exist around the world. These explorations are generally a part of the weekly discussion. 
 
-Finally, in each module there is a **_Discussion_** related to the topics covered that week. Additionally, the web archives you explored in the Exploring Web Archives section will come back as part of the weekly discussion.
+Finally, in each module there is a **_Discussion_** related to the topics covered that week. Additionally, the web archives the students explored in the Exploring Web Archives section will come back as part of the weekly discussion.
 
-Generally the current week's module and the following week's module will get published for those that like to work a bit ahead.  The graded discussions are opened on Monday morning the module week. 
+Generally the current week's module and the following week's module will get published for students that like to work a bit ahead.  The graded discussions are opened on Monday morning of the module week. 
 
 In addition to weekly readings, activities, and discussions, there are four major [assignments](./assignments/) spread across the semester. The final assignment is informed by the third assignment.
 
