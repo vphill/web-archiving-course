@@ -1,8 +1,9 @@
 # Web Archiving Course
 
-Author: Mark Phillips, Ph.D.  
-mark.phillips@unt.edu  
-https://twitter.com/vphill
+Author:
+* Mark Phillips, Ph.D.  
+* mark.phillips@unt.edu  
+* https://twitter.com/vphill
 
 ## Overview
 
@@ -28,6 +29,10 @@ This course has been taught in the following semesters.
 
 * [UNT INFO 960.001 - Web Archiving](syllabus-5960.001-Web-Archiving-2022-Spring.md) - Spring 2022
 
+
+## Corrections / Suggestions / Contributions
+
+If you notice typos, have readings that you would like to suggest, or have ideas for web archiving activities I am interested in receiving contributions to this course. Please reach out to me directly, or if you are inclined, submit an __Issue__ with this repository.
 
 ## Acknowledgements
 
