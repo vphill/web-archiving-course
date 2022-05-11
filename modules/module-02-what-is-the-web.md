@@ -1,6 +1,6 @@
 # Module Two - What is the Web?
 
-## Module Two - Overivew and Objectives
+## Module Two - Overview and Objectives
 
 ### Overview: 
 This week we are going to be looking at the building blocks that make up the web. Having a basic familiarity of how the web works is important as we begin to discuss web archiving. 
