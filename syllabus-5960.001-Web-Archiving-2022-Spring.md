@@ -93,7 +93,7 @@ The only exceptions are a) if students have a personal or family medical emergen
 A grade of incomplete (I) will be given only for justifiable reasons (such as a serious illness or military service) and only if you are passing the course. It is our responsibility to contact the instructor to request an incomplete and discuss requirements for completing the course. If you do not remove the incomplete within the period agreed upon with the instructor or within one calendar year, you will receive a grade of an F. Please refer to https://registrar.unt.edu/grades/incompletes for more information.
 
 ### Withdrawal
-A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on your participation and grades to date.  If you simply disappear and do not file a formal UNT withdrawal form, you may receive a great of an F.
+A grade of withdrawal (W) or withdrawal-failing (WF) will be given depending on your participation and grades to date.  If you simply disappear and do not file a formal UNT withdrawal form, you may receive a grade of an F.
 
 ## Course Requirements / Schedule
 
