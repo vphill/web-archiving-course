@@ -86,7 +86,7 @@ Try recording a website you are familiar with. I would suggest picking an organi
 
 In the discussion this week you will report on your success with this tool and share information about what website you captured and how well the tool worked.  Were you able to download the web archive to your local machine? What did you think about this experience compared to others.  What are your observations about how this is similar or different compared to the other hosted web archiving tools you have used in previous exercises?
 
-## Exploreing Web Archives
+## Exploring Web Archives
 
 Each week we will try and learn about a new web archive, a web archiving tool, or a web archiving service.  The goal of this is to get an introduction to what is happening in the web archiving space, what is being collected, and who is collecting it. 
 
