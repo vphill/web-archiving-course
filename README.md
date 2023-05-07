@@ -27,6 +27,7 @@ In addition to weekly readings, activities, and discussions, there are four majo
 
 This course has been taught in the following semesters.
 
+* [UNT INFO 5960.001 - Web Archiving](syllabus-5960.001-Web-Archiving-2023-Spring.md) - Spring 2023
 * [UNT INFO 5960.001 - Web Archiving](syllabus-5960.001-Web-Archiving-2022-Spring.md) - Spring 2022
 
 
