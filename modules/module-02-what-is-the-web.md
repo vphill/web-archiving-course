@@ -23,7 +23,7 @@ There are several short vides to watch as well as some readings that provide an 
 * Mozilla. _"An Overview of HTTP"_ https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview 
 * WebConcepts. _Web Server Concepts and Examples_ (October 5, 2020). https://www.youtube.com/watch?v=9J1nJOivdyw 
 * SoftwareEngenius. _Learn in 5 Minutes: Http Headers (General/Request/Response/Entity)_ (July 31, 2020) https://www.youtube.com/watch?v=1v7RoeXyww4
-* Fieldings, et. al. _RFC 2616 Section 10. Status Code Definitions._ https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html (Links to an external site.)  
+* Fieldings, et. al. _RFC 2616 Section 10. Status Code Definitions._ https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html  
 
 ### Further Readings (and Videos) 
 
