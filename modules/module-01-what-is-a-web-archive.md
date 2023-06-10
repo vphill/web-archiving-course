@@ -21,17 +21,17 @@ There is a graded discussion for this module.
 
 ### Web Archiving:
 
-* UK Web Archive. "What is a Web Archive?" (April 2, 2015)  https://www.youtube.com/watch?v=ubDHY-ynWi0 (Links to an external site.)
-* Potter, Abbey. “The Why and What of Web Archives.” The Signal: Digital Preservation (April 29, 2014) http://blogs.loc.gov/digitalpreservation/2014/04/the-why-and-what- of-web-archives/ (Links to an external site.) 
-* LePore, Jill. “The Cobweb: Can the Internet be archived?” The New Yorker (January 26, 2015) http://www.newyorker.com/magazine/2015/01/26/cobweb (Links to an external site.)
-* National Digital Stewardship Alliance. “Web Archiving in the United Sates: A 2017 Survey” 2017 https://osf.io/ht6ay/ (Links to an external site.)
+* UK Web Archive. "What is a Web Archive?" (April 2, 2015)  https://www.youtube.com/watch?v=ubDHY-ynWi0
+* Potter, Abbey. “The Why and What of Web Archives.” The Signal: Digital Preservation (April 29, 2014) http://blogs.loc.gov/digitalpreservation/2014/04/the-why-and-what-of-web-archives/ 
+* LePore, Jill. “The Cobweb: Can the Internet be archived?” The New Yorker (January 26, 2015) http://www.newyorker.com/magazine/2015/01/26/cobweb 
+* National Digital Stewardship Alliance. “Web Archiving in the United Sates: A 2017 Survey” 2017 https://osf.io/ht6ay/ 
     * Skim this survey report.
-* Bragg, Molly, Hanna, Kristine, et al. “The Web Archiving Life Cycle Model.” (March 2013) http://ait.blog.archive.org/files/2014/04/archiveit_life_cycle_model.pdf  (Links to an external site.)
+* Bragg, Molly, Hanna, Kristine, et al. “The Web Archiving Life Cycle Model.” (March 2013) http://ait.blog.archive.org/files/2014/04/archiveit_life_cycle_model.pdf
     * Introduction: pp. 1-5
     * Vision and Objectives: pp. 5-8
 
 ### Digital Preservation:
-* Lavoie, Brian. “The Open Archival Information System (OAIS) Reference Model: Introductory Guide” (2nd Edition) DPC Technology Watch Report 14-02 (October 2014)  http://dx.doi.org/10.7207/TWR14-02 (Links to an external site.)
+* Lavoie, Brian. “The Open Archival Information System (OAIS) Reference Model: Introductory Guide” (2nd Edition) DPC Technology Watch Report 14-02 (October 2014)  http://dx.doi.org/10.7207/TWR14-02
     * Section 5 and 6 (p 7-28)
 
 ## Module One - Exploring Web Archives
@@ -42,7 +42,7 @@ Each week we will try and learn about a new web archive, a web archiving tool, o
 
 This week we will start off with the largest web archive that we have, the Internet Archives' Wayback Machine. 
 
-https://web.archive.org/ (Links to an external site.)
+https://web.archive.org/ 
 
 We will learn more about the Internet Archive in future weeks.  For now, type a url into the Wayback Machine and see what you can find.  You could try https://unt.edu or maybe see what cnn.com looked like ten years ago. You can also try to view the different thumbnails that are rotating on the page.  Explore some of the features of the interface after you have selected a URL to explore.
 
