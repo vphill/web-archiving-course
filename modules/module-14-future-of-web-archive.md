@@ -21,7 +21,7 @@ The readings this week were selected to give you an introduction to different pr
 * Lynch, C. (2017) Stewardship in the "Age of Algorithms". First Monday 22(12). https://doi.org/10.5210/fm.v22i12.8097
 
 ### Robust Links
-* https://robustlinks.mementoweb.org/ (Links to an external site.)
+* https://robustlinks.mementoweb.org/
   * About the Project - https://robustlinks.mementoweb.org/about/
   * Specification - https://robustlinks.mementoweb.org/spec/
 * Sanderson, R., Phillips, M., & Van de Sompel H. (2011). Analyzing the Persistence of Referenced Web Resources with Memento. In proceedings Open Repositories 2011 Conference. 
@@ -29,16 +29,16 @@ The readings this week were selected to give you an introduction to different pr
   * UNT Digital Library - https://digital.library.unt.edu/ark:/67531/metadc39318/
 
 ### Signposting
-* https://signposting.org/ (Links to an external site.)
+* https://signposting.org/
   * About the Project - https://signposting.org/#about
 Klein, M., Shankar, H., & Van de Sompel H. (2018). Signposting for Repositories. In proceedings Joint Conference on Digital Libraries.  https://doi.org/10.1145/3197026.3203879
   * UNT Direct Link - https://dl-acm-org.libproxy.library.unt.edu/doi/10.1145/3197026.3203879
-* Klein, M., Van de Sompel, H., Sanderson, R., Shankar, H., Balakireva, L., Zhou, K., & Tobin, R. (2014) Scholarly Context Not Found: One in Five Articles Suffers from Reference Rot. PLOS ONE 9(12): e115253. https://doi.org/10.1371/journal.pone.0115253 (Links to an external site.)
+* Klein, M., Van de Sompel, H., Sanderson, R., Shankar, H., Balakireva, L., Zhou, K., & Tobin, R. (2014) Scholarly Context Not Found: One in Five Articles Suffers from Reference Rot. PLOS ONE 9(12): e115253. https://doi.org/10.1371/journal.pone.0115253
 
 ### Web Archive Collection Zipped (WACZ) 
 * Summers, Ed. (2021). Web Archives on, of, and off, the Web. https://inkdroid.org/2021/11/24/wacz/
 * Open Knowledge Foundation. (2022). Ilya Kreymer's and Ed Summers' presentation about standardising the WACZ format 
-https://www.youtube.com/watch?v=TIyOTEyAu7k (Links to an external site.)
+https://www.youtube.com/watch?v=TIyOTEyAu7k 
 * Specification - https://webrecorder.github.io/wacz-spec/1.1.1/
 
 ## Archiving Exercise
@@ -51,7 +51,7 @@ In addition to just missing pages, there are some situations when the specific v
 
 First, head over to the Robustify service. 
 
-https://robustlinks.mementoweb.org/ (Links to an external site.)
+https://robustlinks.mementoweb.org/  
 
 ![Alt](images/module-14-robust-01.png "Robustify your Links service.")
 
