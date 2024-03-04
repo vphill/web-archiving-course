@@ -12,7 +12,7 @@ We will use the free Conifer (previously called Webrecorder.io) tool located at 
 
 In Module 13 you signed up for a free account, created a public collection, and uploaded a link for that collection to the class discussion board.  You will be adding seed URLs to that collection and making use of the tools and functionality in Conifer to conduct your crawls of those seeds.
 
-If you have questions about using the Conifer tool, I suggest you begin with the Conifer Help guides https://guide.conifer.rhizome.org/ or even look at some of the Youtube videos that discuss the operation of the service.  Overall it should be something you are familiar with from class Web Archive Exercises. 
+If you have questions about using the Conifer tool, I suggest you begin with the Conifer Help guides https://guide.conifer.rhizome.org/ or even look at some of the YouTube videos that discuss the operation of the service.  Overall it should be something you are familiar with from class Web Archive Exercises. 
 
 For your final project you will need to expand your initial seed list to a total of at least 15 seeds. 
 
@@ -29,7 +29,7 @@ For each of the seeds you will document at least the following pieces of informa
 | Post-Crawl Review:                  | After crawling, what are any limitations you notice in your crawled content. |
 | Crawled Seed URL                    | Link directly to the seed URL in  your collection in Conifer.                |
 
-You are welcome to include other metadata fields that are appropriate for the type of collection you are creating.  These could include country, language, branch of government, olympian name, political party, or anything else that would be helpful for a user trying to use your collection. The pre- and post-crawl review are opportunities to communicate some of the crawling challenges you see based on your experience in this course. It is also a way of describing any quality issues that you identify in your collection after you have completed your crawls. 
+You are welcome to include other metadata fields that are appropriate for the type of collection you are creating.  These could include country, language, branch of government, Olympian name, political party, or anything else that would be helpful for a user trying to use your collection. The pre- and post-crawl review are opportunities to communicate some of the crawling challenges you see based on your experience in this course. It is also a way of describing any quality issues that you identify in your collection after you have completed your crawls. 
 
 You are free to present the metadata and fields in any format that works for you, just make sure it is clear what the fields are, and which seed URL they belong to. 
 
